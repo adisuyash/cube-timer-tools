@@ -1,0 +1,26 @@
+{
+  "session1": [
+    [[0, 12340], "R U R' F2 U2", "", 1773840000],
+    [[0, 9650], "U' R2 U2 F2 U' F2 U' R' F U'", "", 1773840951],
+    [[0, 10170], "F U R' U2 R2 U' F R2 U'", "", 1773840976],
+    [[0, 12350], "U2 R' U R F' R U' R2 U", "", 1773841000]
+  ],
+  "session2": [],
+  "session3": [],
+  "session4": [],
+  "session5": [],
+  "session6": [],
+  "session7": [],
+  "session8": [],
+  "session9": [],
+  "session10": [],
+  "session11": [],
+  "session12": [],
+  "session13": [],
+  "session14": [],
+  "session15": [],
+  "properties": {
+    "sessionData": "{\"1\": {\"name\": 1, \"opt\": {\"scrType\": \"222so\"}, \"rank\": 1}}",
+    "scrType": "222so"
+  }
+}
